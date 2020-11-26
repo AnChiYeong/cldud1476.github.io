@@ -1,0 +1,24 @@
+<!doctype html> <!-- 11_25.html -->
+<html><head>
+ <meta charset="utf-8"/>
+ <meta name="viewport" content="width=device-width,initial-sacle=1"/>
+ <title>11_25 개인 과제 리스트</title>
+ <style>
+ a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none}
+ a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
+ </style></head>
+<body>
+<h2>11_25 과제 리스트</h2>
+ <h3>홈페이지</h3>
+<img src="https://user-images.githubusercontent.com/71316798/100311983-68b2b500-2ff4-11eb-86b9-da81521c21b9.jpg">
+<hr style="border: groove 10px red;">
+<h3>로그인페이지</h3>
+<img src="https://user-images.githubusercontent.com/71316798/100311978-67818800-2ff4-11eb-8906-8920d48f9efb.jpg">
+<hr style="border: groove 10px red;">
+<h3>회원가입페이지</h3>
+<img src="https://user-images.githubusercontent.com/71316798/100311982-681a1e80-2ff4-11eb-894d-f346c9c3d8a0.jpg">
+<hr style="border: groove 10px red;">
+<h3>회원가입 완료페이지</h3>
+<img src="https://user-images.githubusercontent.com/71316798/100311984-68b2b500-2ff4-11eb-8215-5ee9fa0f41e1.jpg">
+<hr style="border: groove 10px red;">
+</body></html>
